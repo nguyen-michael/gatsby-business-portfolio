@@ -1,0 +1,9 @@
+title: Control! Housing Prices
+icon: fa-dollar-sign
+description: |
+  Visualizing information that is designed to help someone looking to move to a new city understand the housing market, income, top industry, and quality of life metrics. This tool also includes a near-future price prediction, based on a linear regression machine learning model.  
+
+  This was the final group project in my Boot Camp. The project was designed to showcase the ETL process, our ability to use AWS to create and host a database, extensive machine learning models to try and predict the housing prices, and our ability to visualize and present the information in a dashboard.
+toolsSkills: Tableau, Machine Learning, ETL, Python, SQL, AWS
+githubURL: https://github.com/sathvikaithala/Final_project
+otherURL: [{icon: fa-tv, title: Dashboard, url: https://public.tableau.com/profile/sathvik.aithala#!/vizhome/HousingPrices_16030731374470/Dashboard}]

@@ -1,0 +1,7 @@
+title: Mapping EarthQuaker Oats
+icon: fa-map-marker-alt
+description: > 
+  Using JavaScript to visualize the differences between the global earthquakes recorded in the past seven days, including tectonic plate overlays and multiple map views.
+toolsSkills: JavaScript, Leaflet, D3
+githubURL: https://github.com/sathvikaithala/Mapping_Earthquakes
+otherURL: 

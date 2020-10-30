@@ -1,0 +1,7 @@
+title: Weather Analysis
+icon: fa-cloud-sun
+description: |
+  Building a travel itinerary for a user based on their weather preferences. In order to accomplish this, I used Google Maps APIs to build a database of cities around the world, including their weather descriptions.
+toolsSkills: Python, APIs, Mapping
+githubURL: https://github.com/sathvikaithala/world_weather-analysis
+otherURL:
